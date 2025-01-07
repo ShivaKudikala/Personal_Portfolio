@@ -226,11 +226,11 @@ header{
     width: 60%;
     display: flex;
     justify-content: flex-end;
-    transition: 0.8s ease-in-out;
+    /* transition: 0.8s ease-in-out; */
 }
-.header-img:hover{
+/* .header-img:hover{
     transform: scale(1.15);
-}
+} */
 
 .image{
     width: 100%;
